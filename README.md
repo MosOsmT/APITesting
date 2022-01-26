@@ -1,3 +1,3 @@
 # APITesting
-API testing framework using restassured
+API testing framework using Java Rest assured 
  
