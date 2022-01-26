@@ -7,7 +7,7 @@ import java.util.Properties;
 public class Testproperties {
 
 	public static void main(String[] args) throws IOException {
-		
+		//comments by Tester
 		Properties config=new Properties();
 		
 		FileInputStream fis = new FileInputStream(".\\src\\test\\resources\\properties\\config.properties");
